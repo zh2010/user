@@ -5,14 +5,14 @@
 #### Difficulties in Work
 
 - lack of training data (usually user tag data are from surveys, we can't send survey to all user, only small portion of user may get this survey, little of them may finish it)
-- - contrastive learning
+   - contrastive learning
 
 
 - label noise in the training data
 - how to apply a generic representation in different  downstream task
-- - pretraining and fine tuning
-- - - gap beteewn pretarining and fine tuning
-- - - Sequence length
+  - pretraining and fine tuning
+      - gap beteewn pretarining and fine tuning
+      - sequence length
 - performance of large-scale graph computations
 
 
