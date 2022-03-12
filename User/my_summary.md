@@ -7,6 +7,7 @@
 - lack of training data (usually user tag data are from surveys, we can't send survey to all user, only small portion of user may get this survey, little of them may finish it)
    - contrastive learning
       -  positive samples augmentation
+         - transformer：item sequence 
       -  hard negtive
 
 
