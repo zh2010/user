@@ -10,7 +10,7 @@
          - transformer：item sequence 
       -  hard negtive
    - self supervision
-      - mask 
+      - mask:node mask or node attribute mask
       - nsp
 
 
