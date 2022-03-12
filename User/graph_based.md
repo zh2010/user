@@ -26,7 +26,7 @@ Graph related algorithms using in recommendation system.
 - Paper3: **Sample Level Feature Graph** connecting all Features(Nodes) with learnable weights on Edges. Using **Gated Graph Neural Network** catching cross features. 
 - Paper4: similar with Paper3, using GAT(Transformers) for catching cross features.
 - paper5:flexible representation learning framework for link prediction based on e Bellman-Ford algorithm 
-- paper6:
+- paper6:proposed 3 level of pretraining task: node level,edge level,gragh level
 
 
 
