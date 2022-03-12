@@ -9,6 +9,9 @@
       -  positive samples augmentation
          - transformer：item sequence 
       -  hard negtive
+   - self supervision
+      - mask 
+      - nsp
 
 
 - label noise in the training data
