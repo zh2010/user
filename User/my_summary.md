@@ -10,8 +10,11 @@
          - transformer：item sequence 
       -  hard negtive
    - self supervision
-      - mask:node mask or node attribute mask
-      - nsp
+      - node level
+          - mask:node mask or node attribute mask
+          - nsp
+      - edge level:link prediction
+      - sub gragh level:which sub gragh the node belonging to
 
 
 - label noise in the training data
